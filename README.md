@@ -1,3 +1,3 @@
-# programming-paradigm
+# Programmierparadigmen, Java
 
-## Keine Ahnung, was hier reinschreiben soll!
+## Nutzen Sie dieses Projekt für Ihre Aufgaben im Java-Teil der Veranstaltung

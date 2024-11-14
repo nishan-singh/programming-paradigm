@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.education.hszg.bmi.TestBMICalculator" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-11-14T09:46:42" hostname="WS-I-P313" time="0.015">
+  <properties/>
+  <testcase name="testGetBMIRecommendation(85.123,    1.78,   hit gym) [0]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.005"/>
+  <testcase name="testGetBMIRecommendation(-5.5,      1.24,   Eat more) [1]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testGetBMIRecommendation(233,       1.24,   Eat more) [2]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testGetBMIRecommendation(85.7,      0.78,   Eat more) [3]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testGetBMIRecommendation(67.72,     1.80,   Eat more) [4]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testGetBMIRecommendation(77.44,     1.80,   You are doing good!) [5]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testGetBMIRecommendation(78.08,     1.80,   hit gym) [6]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testCalculateBMI(85.123,    1.78,   26.86) [0]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.004"/>
+  <testcase name="testCalculateBMI(-5.5,      1.24,   0) [1]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.001"/>
+  <testcase name="testCalculateBMI(233,       1.24,   0) [2]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <testcase name="testCalculateBMI(85.7,      0.78,   0) [3]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.001"/>
+  <testcase name="testCalculateBMI(66.0,      820.7,  0) [4]" classname="com.education.hszg.bmi.TestBMICalculator" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
